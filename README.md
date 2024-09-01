@@ -1,6 +1,7 @@
 # Memetkom
 
 ## Penugasan 1 Prak Metkom
+
 ### Nama : Muhammad Dimyati
 ### Asal : Bekasi, Jawa Barat
 ### Prodi : S1 Geofisika
@@ -15,9 +16,4 @@
 
 ### [My Instagram](https://www.instagram.com/_dimyatiii)
 
-## INI ORANG LAIN YANG KERJAIN
-INI TITIT ORANG
-memetkom
-
-![ss](https://github.com/user-attachments/assets/63fe6e65-8e27-47ed-8c2e-b2f30d037f87)
 
