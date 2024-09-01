@@ -1,12 +1,13 @@
 # Memetkom
 
 ## Penugasan 1 Prak Metkom
-
-### Nama : Muhammad Dimyati
+![WIN_20240901_20_56_51_Pro](https://github.com/user-attachments/assets/8d33ffaf-ef9f-4bad-b6f1-5847e918fba0)
+### Nama : *Muhammad Dimyati*
 ### Asal : Bekasi, Jawa Barat
 ### Prodi : S1 Geofisika
-### Hobi : Turu
-### +1000 Aura
+### Hobi : Turu 😋
+### [My Instagram](https://www.instagram.com/_dimyatiii)
+### Follow untuk mendapatkan +1000 Aura 
 ## Jadwal Kuliah
 | SENIN | SELASA | RABU | KAMIS | JUMAT |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
