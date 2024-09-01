@@ -17,3 +17,7 @@
 
 ## INI ORANG LAIN YANG KERJAIN
 INI TITIT ORANG
+memetkom
+
+![Screenshot 2024-09-01 203843](https://github.com/user-attachments/assets/63fe6e65-8e27-47ed-8c2e-b2f30d037f87)
+![SSAN](Screenshot 2024-09-01 203843.png)
