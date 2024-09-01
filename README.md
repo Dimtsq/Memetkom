@@ -1,7 +1,7 @@
 # Memetkom
 
 ## Penugasan 1 Prak Metkom
-### Nama : *Muhammad Dimyati*
+### Nama : Muhammad Dimyati
 ### Asal : Bekasi, Jawa Barat
 ### Prodi : S1 Geofisika
 ### Hobi : Turu
