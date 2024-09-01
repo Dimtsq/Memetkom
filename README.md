@@ -1,6 +1,5 @@
 # Memetkom
 
-## Penugasan 1 Prak Metkom
 ![WIN_20240901_20_56_51_Pro](https://github.com/user-attachments/assets/8d33ffaf-ef9f-4bad-b6f1-5847e918fba0)
 ### Nama : *Muhammad Dimyati*
 ### Asal : Bekasi, Jawa Barat
