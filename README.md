@@ -15,6 +15,6 @@
 | METKOM @102 | MATFIS @101 | KWN @GDG B | ELMAG @102 | GEOSTRUK @102 |
 |   | MAG @213 |   |   |   |
 
-### [My Instagram](https://www.instagram.com/_dimyatiii)
+
 
 
