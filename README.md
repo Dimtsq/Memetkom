@@ -15,5 +15,3 @@
 |   | MAG @213 |   |   |   |
 
 
-### OMAYGATTTT
-
