@@ -14,4 +14,4 @@
 | METKOM @102 | MATFIS @101 | KWN @GDG B | ELMAG @102 | GEOSTRUK @102 |
 |   | MAG @213 |   |   |   |
 
-Saya
+Saya makan babi
