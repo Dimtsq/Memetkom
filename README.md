@@ -13,5 +13,3 @@
 |   | FISBAT @G3 | PERPETAAN @102 | MATFIS @101 | MAG @102 |
 | METKOM @102 | MATFIS @101 | KWN @GDG B | ELMAG @102 | GEOSTRUK @102 |
 |   | MAG @213 |   |   |   |
-
-Saya makan babi
